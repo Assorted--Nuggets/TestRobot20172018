@@ -32,8 +32,7 @@ public class CameraTracker extends Subsystem {
 
 
     public void initDefaultCommand() {
-        // Set the default command, if any, for a subsystem here. Example:
-        //    setDefaultCommand(new MySpecialCommand());
+
     }
 }
 
